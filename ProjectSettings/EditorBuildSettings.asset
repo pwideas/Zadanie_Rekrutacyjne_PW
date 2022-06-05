@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/TIKI25DKIT/Scene/Level 1.unity
     guid: 3bc086ec0b68d4a8cbd57968b29d3d8d
+  - enabled: 1
+    path: Assets/ZR_Scena/Scena.unity
+    guid: de326cee23a264c7d8a51253de491b80
   m_configObjects: {}
